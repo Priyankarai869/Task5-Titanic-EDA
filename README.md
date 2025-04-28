@@ -1,8 +1,6 @@
 # Task5-Titanic-EDA
 Exploratory Data Analysis on Titanic Dataset using Python (Pandas, Seaborn, Matplotlib)<br><br>
 
-# Task 5 - Exploratory Data Analysis (EDA) on Titanic Dataset<br>
-
 This project is a part of my Data Analyst Internship Task 5 assignment.<br><br>
 
 ## Objective<br>
